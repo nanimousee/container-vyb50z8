@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "nanimousee",
+  "repo": "container-vyb50z8",
+  "name": "nanimousee",
+  "email": "nanimousee@gmail.com",
+}
